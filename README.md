@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giorgi Mosemgvdlishvili</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend/React developer from Georgia</h3>
 <img align="rigth" width="600" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Coding"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gio-lix&label=Profile%20views&color=0e75b6&style=flat" alt="gio-lix" /> </p>
